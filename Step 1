@@ -1,0 +1,128 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title> Belajar Tahap 1</title>
+        </head>
+ <!-- -->
+        <body>
+           
+          
+            -----------Ini belajar Bentuk Teks----------- <br/>
+            <b> Teks Tebal </b> <br/>
+            <i> Teks Miring</i> <br/>
+            <u> Teks Undersore</u> <br/>
+            <em>ini format text em</em><br/>
+            <small>ini format text small</small><br/>
+            <strong>ini format text strong</strong><br/>
+            X <sub>2</sub><br/>
+            X<sup>3</sup><br/>
+            <ins>ini format text ins</ins><br/>
+            <del>ini format text del</del><br/>
+            <mark>ini format text mark</mark><br/>
+        #############################################<br/>
+             <br/>
+             --------------------Ukuran Teks---------------<br/>
+            <h1>Teksh1</h1>
+            <h2>Teksh2</h2>
+            <h3>Teksh3</h3>
+            <h4>Teksh4</h4>
+            <h5>Teksh5</h5>
+            <h6>Teksh6</h6>
+         
+        #############################################<br/>  
+              
+              -----------------Ini Membuat List------------------
+                <li>Paket Bayi</li>
+                <li>Paket Pelajar</li>
+                <li>Paket Personal</li>
+                <li>Paket Bisnis</li>
+             
+        <br/>#############################################<br/>
+        
+        <br/>-----------------Ini Membuat Paragraf------------------
+        <p align="left">Saat ujian semester sudah selesai, nilai semua murid dievaluasi. Ternyata, ada sebagian nilai siswa yang nilainya melebihi standar kelulusan, yakni sebanyak 13 siswa. Sedangkan 9 siswa mendapatkan nilai standar kelulusan, dan tidak ada siswa yang mendapat nilai di bawah rata-rata. Dengan begitu, bisa dibilang bahwa kegiatan pembelajaran pada sekolah tersebut berhasil.</p>
+        <p align="right">Bagi warga Jakarta, membuang sampah seenaknya ke dalam sungai sudah jadi kebiasaan bahkan tradisi sejak dulu. Padahal, kebiasaan buruk ini sudah dirasakan akibatnya hampir setiap tahun. Sampah-sampah ini bisa menyebabkan aliran sungai terhambat dan akhirnya menimbulkan banjir. Tidak heran apabila banjir yang terjadi di Jakarta seringkali disebabkan oleh tumpukan sampah yang menghambat aliran sungai.</p>
+        <p align="center">Belajar dengan sistem SKS alias Sistem Kebut Semalam bukanlah hal yang patut dicontoh. Apalagi kalau esok harinya adalah hari ujian. Akibat yang bisa dirasakan adalah rasa kantuk ketika sedang mengerjakan ujian. Maka itu, persiapkan diri dan mulai belajar sejak jauh-jauh hari sebelum waktu ujian tiba.</p>
+        <p align="justify">Rina adalah anak yang sangat baik hati. Ia selalu membantu teman-temannya yang sedang membutuhkan, seperti membantu menjelaskan pelajaran yang belum dimengerti. Tak jarang pula, Rina ikut membantu teman-temannya dalam mengejar nilai yang masih di bawah rata-rata. Selain membantu teman, Rina pun senang membantu guru-guru. Ia tak segan-segan membantu para gurunya dengan membawakan buku-buku ke kelas atau ruang guru. Oleh sebab itu, tak heran apabila semua teman sekelas bahkan guru-guru pun sangat menyukai perilaku baik Rina.</p>
+
+        <br/>#############################################<br/>
+        
+        <br/>-----------------Ini Membuat Tabel------------------
+        <br/>
+        
+        <table rules="all" border="1" >
+                <tr>
+                    <td> No </td>
+                    <td> Nama </td>
+                    <td> kota asal</td>
+                </tr>
+
+                <tr>
+                    <td> 1 </td>
+                    <td> Rohmatul Kamilah </td>
+                    <td> Jombang</td>
+                </tr>
+
+                <tr>
+                    <td> 2 </td>
+                    <td> Bunna </td>
+                    <td> Malang</td>
+                </tr>
+                
+        </table>
+        
+        <br/>#############################################<br/>
+        
+                <br/>-----------------Membuat Hyperlink------------------
+                <a href="http://198.54.124.245/"><<--KLIK LINK FILM</a>
+               
+                    <br/> #############################################<br/>
+        
+                <br/>-----------------Membuat Teks Berjalan------------------
+                
+        <marquee><h1>Halo Jangan Lupa Bahagia</h4></marquee>
+         
+            <br/> #############################################<br/>
+        
+            <br/>-----------------Membaut FOrm------------------
+
+        <form>
+            nama : <input type="text" name = nama"<br/>
+            alamat : <input type="text" name="alamat"> </br/>
+password : <input type="password" name="pass"> <br/>
+Jenis Kelamin :
+<input type="radio" name="jk" value="laki-laki"/> Laki - Laki
+<input type="radio" name="jk" value="perempuan" /> Perempuan
+<br/>
+bahas pemograman yang dikuasai :
+<input type="checkbox" name="web"> Web
+<input type="checkbox" name="mobile"> MOBILE
+<input type="checkbox" name="desk"> DESKTOP
+<br/>
+kota asal :
+<select>
+<option>Semarang</option>
+<option>Bandung</option>
+</select>
+<br/>
+pesan anda :
+<textarea></textarea>
+<br/>
+<input type="submit" value="proses">
+
+
+        </form>
+
+
+        </body>
+
+
+
+
+
+
+
+
+
+
+    </html>
